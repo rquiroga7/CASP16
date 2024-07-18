@@ -1,3 +1,7 @@
+PFRMAT     LG
+TARGET     L1000
+AUTHOR     3419-7309-1619
+METHOD     Beta version of 2Vinardo, uses empirical docking scoring function F36 to predict pose and ligand binging affinity
 ATOM      1  N   ILE A  16       4.239  48.568  22.956  1.00  0.00           N  
 ATOM      2  HN1 ILE A  16       3.735  48.381  22.065  1.00  0.00           H  
 ATOM      3  HN2 ILE A  16       4.005  47.829  23.649  1.00  0.00           H  
@@ -2154,3 +2158,7 @@ ATOM   2153 2HD2 ASN A 245      -9.816  39.665  -2.655  1.00  0.00           H
 ATOM   2154  OXT ASN A 245     -10.154  43.703  -6.290  1.00  0.00           O  
 MASTER        0    0    0    0    0    0    0    0 2154    0 2154    0
 TER
+MODEL 2
+PARENT 2hvx
+LIGAND ID Name
+AFFNTY 11702.7
