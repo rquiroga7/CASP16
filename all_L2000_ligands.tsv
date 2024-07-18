@@ -1,0 +1,3 @@
+TARGET  ID	Name	SMILES	Task
+L2001 0	761	CC(=O)NCCc1c([C@@H](C2=C(O)[C@@](C)(c3ccccc3)OC2=O)c2ccccc2)[nH]c2cc(F)ccc12	P
+L2002 0	380	COC(=O)N(C)Cc1c(C(=O)O)n(Cc2cccc3ccc(F)cc23)c2ccccc12	P

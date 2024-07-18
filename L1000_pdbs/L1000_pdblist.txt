@@ -1,0 +1,10 @@
+3n7o (refined) Ki=72nM
+4kp0 (PDBBIND) Ki=2.24nM
+1t31 (refined) Ki=2.3nM 
+2hvx (PDBBIND) IC50=29nM 
+4k69 (PDBBIND) IC50=0.04uM
+4k5z (PDBBIND) IC50>1000uM 
+4k2y (PDBBIND) IC50=470uM
+4k60 (PDBBIND) IC50=570uM 
+5yjp (PDBBIND) IC50=0.24uM 
+5yjm (refined) Kd=21nM 
