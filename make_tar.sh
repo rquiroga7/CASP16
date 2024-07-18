@@ -1,0 +1,1 @@
+ tar -czf L1000LG363.tgz ./L1000_models

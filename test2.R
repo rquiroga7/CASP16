@@ -24,6 +24,13 @@ for (ligand in ligands) {
     "METHOD     Beta version of 2Vinardo, uses empirical docking scoring function F36 to predict pose and ligand binging affinity",
     sep = "\n"
   )
+
+  ###VER#
+    #Now get ligand coordinates for corresponding model from C:/Users/Usuario/Documents/GitHub/CASP16/L1000_results/DOCK.F36.P2hvx/L1001_ligand.sdf
+ligand_sdf <- readLines(paste0("C:/Users/Usuario/Documents/GitHub/CASP16/L1000_results/DOCK.F36.P2hvx/", ligand, "_ligand.sdf"))
+# Split ligands by lines that contain "$$$$"
+ligand_coords <- unlist(strsplit(paste(ligand_sdf, collapse = "\n"), "\\$\\$\\$\\$"))
+#######    
   
   # Get protein pdb file coordinates
   protein_pdb <- readLines(paste0("C:/Users/Usuario/Documents/GitHub/CASP16/L1000_results/Prot/2hvx_protein.pdb"))
@@ -52,11 +59,7 @@ for (ligand in ligands) {
       sep = "\n"
     )
 
-###VER#
-    #Now get ligand coordinates for corresponding model from C:/Users/Usuario/Documents/GitHub/CASP16/L1000_results/DOCK.F36.P2hvx/L1001_ligand.sdf
-    ligand_sdf <- readLines(paste0("C:/Users/Usuario/Documents/GitHub/CASP16/L1000_results/DOCK.F36.P2hvx/", ligand, "_ligand.sdf"))
-    ligand_coords <- ligand_sdf[grep("M  END", ligand_sdf):length(ligand_sdf)]
-#######    
+
     
     # Combine all parts
     output <- c(header, protein_pdb, model_info)
