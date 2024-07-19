@@ -90,9 +90,11 @@ for lig in lig_list:
     for index in range(5):
         model=index+1
         # Create the model information string
-        model_info = "\n".join([
+        model_info1 = "\n".join([
             f"MODEL {model}",
             f"PARENT {prot}",
+        ])
+        model_info2 = "\n".join([
             f"LIGAND {ligand_id} {ligand_name}",
             f"{ligand_name}"
         ])
@@ -106,7 +108,7 @@ for lig in lig_list:
         output_file = os.path.join("C:/Users/Usuario/Documents/GitHub/CASP16/L1000_models/", f"{lig}LG363_{model}.lg")
         # Write the output file
         with open(output_file, 'w') as file:
-            file.write("\n".join([header,"".join(protein_pdb), model_info, models_low[index], end]))
+            file.write("\n".join([header, model_info1,"".join(protein_pdb), model_info2, models_low[index], end]))
             file.close()
 
 #Process C:/Users/Usuario/Documents/GitHub/CASP16/L1000_results/DOCK.F36.P2hvx/L1001_ligand.sdf, C:/Users/Usuario/Documents/GitHub/CASP16/L1000_results/DOCK.F36.P/L1001_ligand.sdf 
