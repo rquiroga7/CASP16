@@ -105,7 +105,7 @@ for lig in lig_list:
         ])
 
         # Create the output file name
-        output_file = os.path.join("C:/Users/Usuario/Documents/GitHub/CASP16/L1000_models/", f"{lig}LG363_{model}.lg")
+        output_file = os.path.join("C:/Users/Usuario/Documents/GitHub/CASP16/L1000_models/", f"{lig}LG363_{model}")
         # Write the output file
         with open(output_file, 'w') as file:
             file.write("\n".join([header, model_info1,"".join(protein_pdb), model_info2, models_low[index], end]))
