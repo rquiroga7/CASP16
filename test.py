@@ -100,7 +100,7 @@ for lig in lig_list:
         ])
         end = "\n".join([
             "M  END"
-            f"AFFNTY {Kd_nM[index]}",
+            f"AFFNTY {Kd_nM[index]} aa",
             "END"
         ])
 
