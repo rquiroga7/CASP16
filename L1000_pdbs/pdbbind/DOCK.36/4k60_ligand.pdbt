@@ -1,0 +1,105 @@
+MODEL        1
+REMARK 921   NORMALIZED FREE ENERGY :  -6.150 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -6.150 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -6.150 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :   0.000 KCAL/MOL
+ROOT
+ATOM      1  O   UNL     1      -1.145  39.695  23.259  0.00  0.00      0.00 Of
+ATOM      2  C   UNL     1      -0.003  39.701  22.832  0.00  0.00      0.00 A 
+ATOM      3  C   UNL     1       1.252  39.698  23.665  0.00  0.00      0.00 C2
+ATOM      4  N   UNL     1       0.383  39.724  21.537  0.00  0.00      0.00 Nb
+ATOM      5  C   UNL     1       1.776  39.719  21.404  0.00  0.00      0.00 A 
+ATOM      6  C   UNL     1       2.592  39.723  20.267  0.00  0.00      0.00 A 
+ATOM      7  C   UNL     1       3.968  39.720  20.426  0.00  0.00      0.00 A 
+ATOM      8 BR   UNL     1       5.101  39.724  18.909  0.00  0.00      0.00 Br
+ATOM      9  C   UNL     1       2.376  39.706  22.658  0.00  0.00      0.00 A 
+ATOM     10  C   UNL     1       3.744  39.712  22.802  0.00  0.00      0.00 A 
+ATOM     11  C   UNL     1       4.550  39.723  21.676  0.00  0.00      0.00 A 
+ATOM     12  H   UNL     1      -0.264  39.741  20.750  0.00  0.00      0.00 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL        2
+REMARK 921   NORMALIZED FREE ENERGY :  -6.100 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -6.100 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -6.100 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :   0.000 KCAL/MOL
+ROOT
+ATOM      1  O   UNL     1      -1.130  40.523  21.268  0.00  0.00      0.00 Of
+ATOM      2  C   UNL     1       0.060  40.341  21.462  0.00  0.00      0.00 A 
+ATOM      3  C   UNL     1       1.146  40.411  20.419  0.00  0.00      0.00 C2
+ATOM      4  N   UNL     1       0.658  40.028  22.633  0.00  0.00      0.00 Nb
+ATOM      5  C   UNL     1       2.043  39.894  22.497  0.00  0.00      0.00 A 
+ATOM      6  C   UNL     1       3.037  39.597  23.437  0.00  0.00      0.00 A 
+ATOM      7  C   UNL     1       4.356  39.521  23.021  0.00  0.00      0.00 A 
+ATOM      8 BR   UNL     1       5.724  39.122  24.269  0.00  0.00      0.00 Br
+ATOM      9  C   UNL     1       2.417  40.111  21.175  0.00  0.00      0.00 A 
+ATOM     10  C   UNL     1       3.731  40.025  20.774  0.00  0.00      0.00 A 
+ATOM     11  C   UNL     1       4.711  39.723  21.704  0.00  0.00      0.00 A 
+ATOM     12  H   UNL     1       0.158  39.904  23.512  0.00  0.00      0.00 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL        3
+REMARK 921   NORMALIZED FREE ENERGY :  -6.096 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -6.096 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -6.096 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :   0.000 KCAL/MOL
+ROOT
+ATOM      1  O   UNL     1      -1.939  40.400  22.033  0.00  0.00      0.00 Of
+ATOM      2  C   UNL     1      -0.745  40.239  21.847  0.00  0.00      0.00 A 
+ATOM      3  C   UNL     1       0.279  39.923  22.906  0.00  0.00      0.00 C2
+ATOM      4  N   UNL     1      -0.084  40.323  20.672  0.00  0.00      0.00 Nb
+ATOM      5  C   UNL     1       1.285  40.077  20.819  0.00  0.00      0.00 A 
+ATOM      6  C   UNL     1       2.322  40.048  19.881  0.00  0.00      0.00 A 
+ATOM      7  C   UNL     1       3.612  39.777  20.309  0.00  0.00      0.00 A 
+ATOM      8 BR   UNL     1       5.037  39.728  19.064  0.00  0.00      0.00 Br
+ATOM      9  C   UNL     1       1.585  39.828  22.155  0.00  0.00      0.00 A 
+ATOM     10  C   UNL     1       2.871  39.568  22.568  0.00  0.00      0.00 A 
+ATOM     11  C   UNL     1       3.896  39.546  21.638  0.00  0.00      0.00 A 
+ATOM     12  H   UNL     1      -0.530  40.539  19.781  0.00  0.00      0.00 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL        4
+REMARK 921   NORMALIZED FREE ENERGY :  -5.747 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -5.747 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -5.747 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :   0.000 KCAL/MOL
+ROOT
+ATOM      1  O   UNL     1       0.739  37.811  26.669  0.00  0.00      0.00 Of
+ATOM      2  C   UNL     1       1.064  38.252  25.580  0.00  0.00      0.00 A 
+ATOM      3  C   UNL     1       0.129  38.808  24.537  0.00  0.00      0.00 C2
+ATOM      4  N   UNL     1       2.313  38.325  25.068  0.00  0.00      0.00 Nb
+ATOM      5  C   UNL     1       2.325  38.891  23.789  0.00  0.00      0.00 A 
+ATOM      6  C   UNL     1       3.382  39.165  22.913  0.00  0.00      0.00 A 
+ATOM      7  C   UNL     1       3.105  39.738  21.683  0.00  0.00      0.00 A 
+ATOM      8 BR   UNL     1       4.512  40.122  20.476  0.00  0.00      0.00 Br
+ATOM      9  C   UNL     1       1.030  39.211  23.395  0.00  0.00      0.00 A 
+ATOM     10  C   UNL     1       0.769  39.772  22.167  0.00  0.00      0.00 A 
+ATOM     11  C   UNL     1       1.815  40.035  21.299  0.00  0.00      0.00 A 
+ATOM     12  H   UNL     1       3.148  38.005  25.557  0.00  0.00      0.00 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL        5
+REMARK 921   NORMALIZED FREE ENERGY :  -5.616 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -5.616 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -5.616 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :   0.000 KCAL/MOL
+ROOT
+ATOM      1  O   UNL     1       0.513  40.722  19.668  0.00  0.00      0.00 Of
+ATOM      2  C   UNL     1       1.218  40.354  20.591  0.00  0.00      0.00 A 
+ATOM      3  C   UNL     1       0.737  39.738  21.879  0.00  0.00      0.00 C2
+ATOM      4  N   UNL     1       2.565  40.429  20.669  0.00  0.00      0.00 Nb
+ATOM      5  C   UNL     1       3.052  39.910  21.873  0.00  0.00      0.00 A 
+ATOM      6  C   UNL     1       4.358  39.777  22.357  0.00  0.00      0.00 A 
+ATOM      7  C   UNL     1       4.559  39.220  23.610  0.00  0.00      0.00 A 
+ATOM      8 BR   UNL     1       6.314  39.024  24.293  0.00  0.00      0.00 Br
+ATOM      9  C   UNL     1       1.997  39.470  22.666  0.00  0.00      0.00 A 
+ATOM     10  C   UNL     1       2.210  38.926  23.911  0.00  0.00      0.00 A 
+ATOM     11  C   UNL     1       3.502  38.802  24.391  0.00  0.00      0.00 A 
+ATOM     12  H   UNL     1       3.157  40.818  19.936  0.00  0.00      0.00 HD
+ENDROOT
+TORSDOF 0
+ENDMDL

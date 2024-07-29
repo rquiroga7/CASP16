@@ -1,0 +1,11 @@
+1t31_ligand.mol2
+2hvx_ligand.mol2
+3n7o_ligand.mol2
+3s0n_ligand.mol2
+4k2y_ligand.mol2
+4k5z_ligand.mol2
+4k60_ligand.mol2
+4k69_ligand.mol2
+4kp0_ligand.mol2
+5yjm_ligand.mol2
+5yjp_ligand.mol2
