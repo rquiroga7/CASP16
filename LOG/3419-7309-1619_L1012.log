@@ -1,0 +1,16 @@
+----VALIDATION REPORT----
+AUTHOR : 3419-7309-1619
+TARGET : L1012
+METHOD : Beta version of 2Vinardo, uses empirical docking scoring function F40 to predict ligand pose and binding affinity
+
+-------------------------
+NUM_MODELS : 1
+MODEL :  1
+NUM_LIGANDS :  1
+AFFNTY :  1898.283
+
+	LIGAND : LIG 0
+	LSCORE : None
+		ATOMS VALID
+		BONDS VALID
+		TOPOLOGY VALID

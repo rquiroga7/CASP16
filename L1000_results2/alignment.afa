@@ -1,0 +1,22 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+PDB_seq         ---------------------IIGGTECKPHSRPYMAYLEIVTSNGPSKFCGGFLIRRNF
+prot_seq        MLLLPLPLLLFLLCSRAEAGEIIGGTESKPHSRPYMAYLEIVTSNGPSKFCGGFLIRRNF
+                                     ******.********************************
+
+PDB_seq         VLTAAHCAGRXSITVTLGAHNITEXEEDTWQKLEVIKQFRHPKYNTSTLHHDIMLLKLKE
+prot_seq        VLTAAHCAGR-SITVTLGAHNITE-EEDTWQKLEVIKQFRHPKYNTSTLHHDIMLLKLKE
+                ********** ************* ***********************************
+
+PDB_seq         KASLTLAVGTLPFPSQKNFVPPGRMCRVAGWGRTGVLKXPGSDTLQEVKLRLMDPQACSX
+prot_seq        KASLTLAVGTLPFPSQKNFVPPGRMCRVAGWGRTGVLK-PGSDTLQEVKLRLMDPQACS-
+                ************************************** ******************** 
+
+PDB_seq         XHFRDFDHNLQLCVGNPRKTKSAFKGDSGGPLLCAXXXXGAAQGIVSYGRSDAKXXPPAV
+prot_seq        -HFRDFDHNLQLCVGNPRKTKSAFKGDSGGPLLCA----GVAQGIVSYGRSDAK--PPAV
+                 **********************************    *.*************  ****
+
+PDB_seq         FTRISHYQPWINQILQAN
+prot_seq        FTRISHYRPWINQILQAN
+                *******:**********

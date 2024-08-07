@@ -1,0 +1,58 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+data/1t31_protein.pdb      ILEILEGLYGLYTHRGLUCYSLYSPROHISSERARGPROTYRMETALATY
+L1000_chymase.fasta        --------------------------------------------------
+                                                                             
+
+data/1t31_protein.pdb      RLEUGLUILEVALTHRSERASNGLYPROSERLYSPHECYSGLYGLYPHEL
+L1000_chymase.fasta        --------------------------------------------------
+                                                                             
+
+data/1t31_protein.pdb      EUILEARGARGASNPHEVALLEUTHRALAALAHISCYSALAGLYARGSER
+L1000_chymase.fasta        -----------------MLLLP-----LPLLLFLLCSRAEAGEIIGGTE-
+                                            : **      *. * .: *  * **    *:* 
+
+data/1t31_protein.pdb      ILETHRVALTHRLEUGLYALAHISASNILETHRGLUGLUGLUASPTHRTR
+L1000_chymase.fasta        --------------------------------------------SKPHSR
+                                                                       .. ::*
+
+data/1t31_protein.pdb      PGLNLYSLEUGLUVALILELYSGLNPHEARGHISPROLYSTYRASNTHRS
+L1000_chymase.fasta        P------------YMAYLEIVTSNGPSKFCGGFLIR---RNFVLTAAHCA
+                           *                **: :. .* :  * :  *    .:  : :* :
+
+data/1t31_protein.pdb      ERTHRLEUHISHISASPILEMETLEULEULYSLEULYSGLULYSALASER
+L1000_chymase.fasta        GR------------------------------------------------
+                            *                                                
+
+data/1t31_protein.pdb      LEUTHRLEUALAVALGLYTHRLEUPROPHEPROSERGLNLYSASNPHEVA
+L1000_chymase.fasta        ---------SITVTLGAHNITEE------------------------EDT
+                                    :::*:** :.   *                        * :
+
+data/1t31_protein.pdb      LPROPROGLYARGMETCYSARGVALALAGLYTRPGLYARGTHRGLYVALL
+L1000_chymase.fasta        WQK---------------------LEVIKQFRHPKYNTSTLHHDIMLLKL
+                             :                     * :   : :*   :   *:.: :  *
+
+data/1t31_protein.pdb      EULYSPROGLYSERASPTHRLEUGLNGLUVALLYSLEUARGLEUMETASP
+L1000_chymase.fasta        K-----------EKASLTLAVG--------TLPFPSQ--------KNFVP
+                           :           *:** *  :         :* :. :        :.  *
+
+data/1t31_protein.pdb      PROGLNALACYSSERHISPHEARGASPPHEASPHISASNLEUGLNLEUCY
+L1000_chymase.fasta        PG-RMCRVAGWGRTGVLKPGSDTLQEVKLRLMDPQACSHFR-------DF
+                           *   :  :* :.    :.* .    .   .     :.*::.        :
+
+data/1t31_protein.pdb      SVALGLYASNPROARGLYSTHRLYSSERALAPHELYSGLYASPSERGLYG
+L1000_chymase.fasta        DHNLQLCVGNPR------------------KTKSAFKGDSGGP-------
+                           .  * * ..***                   .:. :.*  ..*       
+
+data/1t31_protein.pdb      LYPROLEULEUCYSALAGLYALAALAGLNGLYILEVALSERTYRGLYARG
+L1000_chymase.fasta        ------------------------------------LLCAGVAQGIVSYG
+                                                                *.  . :*: : *
+
+data/1t31_protein.pdb      SERASPALALYSPROPROALAVALPHETHRARGILESERHISTYRGLNPR
+L1000_chymase.fasta        RSDAKPPAVFTR----------------------------ISHYRPWINQ
+                            . *.*. .:                              ** **    :
+
+data/1t31_protein.pdb      OTRPILEASNGLNILELEUGLNALAASN
+L1000_chymase.fasta        ----ILQAN-------------------
+                               **:*.                   

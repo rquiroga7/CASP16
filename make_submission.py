@@ -89,7 +89,7 @@ for lig in lig_list:
     # Define the paths
     #protein_pdb_path = os.path.join("./L1000_results2/data/", f"{prot}_protein.pdb")
     #Now using results_folder
-    protein_pdb_path = os.path.join(results_folder, f"data/{prot}_protein.pdb")
+    protein_pdb_path = os.path.join(results_folder, f"mutated/{prot}_protein.pdb")
     ligand_info_path = os.path.join("./L1000_ligands", f"{lig}.tsv")
     #ligand_pdbt_path = os.path.join(f"./L1000_results2/DOCK.F40.P{prot}", f"{lig}_ligand.pdbt")
     ligand_pdbt_path = os.path.join(results_folder, f"DOCK.F40.P{prot}/{lig}_ligand.pdbt")
@@ -97,6 +97,8 @@ for lig in lig_list:
 # Get protein pdb file coordinates
     with open(protein_pdb_path, 'r') as file:
         protein_pdb = file.readlines()
+        #eliminate lines that do not start with ATOM
+        protein_pdb = [line for line in protein_pdb if line.startswith('ATOM')]
 
     # Get ligand ID and name
     ligand_info = pd.read_csv(ligand_info_path, sep='\t', header=None)
@@ -124,12 +126,12 @@ for lig in lig_list:
         ])
 
         # Create the output file name
-        output_file = os.path.join("./L1000_models_corrected/", f"{lig}LG363_{model}")
+        output_file = os.path.join("./L1000_models/", f"{lig}LG363_{model}")
         # Write the output file
         with open(output_file, 'w') as file:
             protpdb="".join(protein_pdb)
             #remove last item in prot
             protpdb = protpdb[:-1]
-            file.write("\n".join([header, model_info1,protpdb, model_info2, models_low[index], end]))
+            file.write("\n".join([header, model_info1, protpdb,"TER", model_info2, models_low[index], end]))
             file.close()
 

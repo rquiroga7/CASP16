@@ -1,0 +1,260 @@
+MODEL        1
+REMARK 921   NORMALIZED FREE ENERGY :  -7.707 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -9.603 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -9.446 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -0.157 KCAL/MOL
+ROOT
+ATOM      1  C4  UNL     1      -4.141  38.770  21.399  0.00  0.00      0.00 A 
+ATOM      2  C5  UNL     1      -3.027  39.631  21.510  0.00  0.00      0.00 A 
+ATOM      3  N2  UNL     1      -1.914  38.971  21.223  0.00  0.00      0.00 Nu
+ATOM      4  C18 UNL     1      -2.263  37.660  20.922  0.00  0.00      0.00 A 
+ATOM      5  C19 UNL     1      -1.420  36.619  20.598  0.00  0.00      0.00 A 
+ATOM      6  C20 UNL     1      -2.004  35.365  20.371  0.00  0.00      0.00 A 
+ATOM      7  C21 UNL     1      -3.365  35.218  20.476  0.00  0.00      0.00 A 
+ATOM      8  F1  UNL     1      -3.956  33.994  20.254  0.00  0.00      0.00 F 
+ATOM      9  C22 UNL     1      -4.173  36.294  20.804  0.00  0.00      0.00 A 
+ATOM     10  C23 UNL     1      -3.634  37.549  21.034  0.00  0.00      0.00 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  C6  UNL     1      -3.203  41.024  21.923  0.00  0.00      0.00 A1
+ATOM     12  O3  UNL     1      -2.800  42.000  21.200  0.00  0.00      0.00 Oc
+ATOM     13  O4  UNL     1      -3.804  41.417  23.096  0.00  0.00      0.00 Oc
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  C3  UNL     1      -5.525  39.171  21.667  0.00  0.00      0.00 C2
+BRANCH  14  17
+ATOM     15  C2  UNL     1      -7.189  40.237  20.105  0.00  0.00      0.00 A1
+ATOM     16  O2  UNL     1      -7.748  39.110  19.932  0.00  0.00      0.00 Of
+ATOM     17  N1  UNL     1      -6.067  40.283  20.975  0.00  0.00      0.00 Nf
+ATOM     18  H4  UNL     1      -5.638  41.261  21.085  0.00  0.00      0.00 HD
+BRANCH  15  20
+ATOM     19  C1  UNL     1      -8.792  41.334  18.600  0.00  0.00      0.00 C3
+ATOM     20  O1  UNL     1      -7.674  41.370  19.457  0.00  0.00      0.00 Oo
+ENDBRANCH  15  20
+ENDBRANCH  14  17
+ENDBRANCH   1  14
+BRANCH   3  21
+ATOM     21  C7  UNL     1      -0.537  39.433  21.250  0.00  0.00      0.00 C2
+BRANCH  21  22
+ATOM     22  C8  UNL     1       0.100  39.134  22.517  0.00  0.00      0.00 A 
+ATOM     23  C9  UNL     1      -0.630  38.600  23.569  0.00  0.00      0.00 A 
+ATOM     24  C10 UNL     1      -0.094  38.188  24.768  0.00  0.00      0.00 A 
+ATOM     25  C11 UNL     1       1.271  38.326  24.909  0.00  0.00      0.00 A 
+ATOM     26  C12 UNL     1       2.037  38.845  23.915  0.00  0.00      0.00 A 
+ATOM     27  C13 UNL     1       3.376  39.000  24.143  0.00  0.00      0.00 A 
+ATOM     28  C14 UNL     1       4.202  39.572  23.182  0.00  0.00      0.00 A 
+ATOM     29  C15 UNL     1       3.624  39.981  21.985  0.00  0.00      0.00 A 
+ATOM     30  C16 UNL     1       2.275  39.827  21.748  0.00  0.00      0.00 A 
+ATOM     31  C17 UNL     1       1.462  39.259  22.698  0.00  0.00      0.00 A 
+ENDBRANCH  21  22
+ENDBRANCH   3  21
+TORSDOF 6
+ENDMDL
+MODEL        2
+REMARK 921   NORMALIZED FREE ENERGY :  -7.371 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -9.184 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -8.839 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -0.345 KCAL/MOL
+ROOT
+ATOM      1  C4  UNL     1      -6.209  41.169  23.330  0.00  0.00      0.00 A 
+ATOM      2  C5  UNL     1      -5.756  39.842  23.496  0.00  0.00      0.00 A 
+ATOM      3  N2  UNL     1      -5.852  39.184  22.349  0.00  0.00      0.00 Nu
+ATOM      4  C18 UNL     1      -6.376  40.057  21.402  0.00  0.00      0.00 A 
+ATOM      5  C19 UNL     1      -6.674  39.785  20.083  0.00  0.00      0.00 A 
+ATOM      6  C20 UNL     1      -7.236  40.822  19.325  0.00  0.00      0.00 A 
+ATOM      7  C21 UNL     1      -7.465  42.045  19.907  0.00  0.00      0.00 A 
+ATOM      8  F1  UNL     1      -8.013  43.075  19.176  0.00  0.00      0.00 F 
+ATOM      9  C22 UNL     1      -7.149  42.270  21.235  0.00  0.00      0.00 A 
+ATOM     10  C23 UNL     1      -6.591  41.272  22.017  0.00  0.00      0.00 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  C6  UNL     1      -5.299  39.369  24.803  0.00  0.00      0.00 A1
+ATOM     12  O3  UNL     1      -4.098  38.974  24.998  0.00  0.00      0.00 Oc
+ATOM     13  O4  UNL     1      -6.090  39.307  25.926  0.00  0.00      0.00 Oc
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  C3  UNL     1      -6.257  42.165  24.405  0.00  0.00      0.00 C2
+BRANCH  14  17
+ATOM     15  C2  UNL     1      -5.179  44.192  25.439  0.00  0.00      0.00 A1
+ATOM     16  O2  UNL     1      -6.010  44.145  26.398  0.00  0.00      0.00 Of
+ATOM     17  N1  UNL     1      -5.292  43.203  24.427  0.00  0.00      0.00 Nf
+ATOM     18  H4  UNL     1      -4.562  43.291  23.644  0.00  0.00      0.00 HD
+BRANCH  15  20
+ATOM     19  C1  UNL     1      -4.326  46.340  24.602  0.00  0.00      0.00 C3
+ATOM     20  O1  UNL     1      -4.203  45.185  25.402  0.00  0.00      0.00 Oo
+ENDBRANCH  15  20
+ENDBRANCH  14  17
+ENDBRANCH   1  14
+BRANCH   3  21
+ATOM     21  C7  UNL     1      -5.548  37.794  22.056  0.00  0.00      0.00 C2
+BRANCH  21  22
+ATOM     22  C8  UNL     1      -4.224  37.648  21.484  0.00  0.00      0.00 A 
+ATOM     23  C9  UNL     1      -3.224  38.566  21.768  0.00  0.00      0.00 A 
+ATOM     24  C10 UNL     1      -1.914  38.453  21.360  0.00  0.00      0.00 A 
+ATOM     25  C11 UNL     1      -1.599  37.337  20.614  0.00  0.00      0.00 A 
+ATOM     26  C12 UNL     1      -2.537  36.406  20.301  0.00  0.00      0.00 A 
+ATOM     27  C13 UNL     1      -2.166  35.350  19.515  0.00  0.00      0.00 A 
+ATOM     28  C14 UNL     1      -3.093  34.393  19.121  0.00  0.00      0.00 A 
+ATOM     29  C15 UNL     1      -4.408  34.543  19.549  0.00  0.00      0.00 A 
+ATOM     30  C16 UNL     1      -4.789  35.604  20.342  0.00  0.00      0.00 A 
+ATOM     31  C17 UNL     1      -3.871  36.546  20.732  0.00  0.00      0.00 A 
+ENDBRANCH  21  22
+ENDBRANCH   3  21
+TORSDOF 6
+ENDMDL
+MODEL        3
+REMARK 921   NORMALIZED FREE ENERGY :  -7.348 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -9.156 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -9.104 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -0.051 KCAL/MOL
+ROOT
+ATOM      1  C4  UNL     1      -2.268  37.923  21.248  0.00  0.00      0.00 A 
+ATOM      2  C5  UNL     1      -3.382  38.265  22.045  0.00  0.00      0.00 A 
+ATOM      3  N2  UNL     1      -4.361  37.391  21.855  0.00  0.00      0.00 Nu
+ATOM      4  C18 UNL     1      -3.920  36.456  20.926  0.00  0.00      0.00 A 
+ATOM      5  C19 UNL     1      -4.624  35.389  20.410  0.00  0.00      0.00 A 
+ATOM      6  C20 UNL     1      -3.980  34.600  19.446  0.00  0.00      0.00 A 
+ATOM      7  C21 UNL     1      -2.699  34.909  19.058  0.00  0.00      0.00 A 
+ATOM      8  F1  UNL     1      -2.050  34.142  18.115  0.00  0.00      0.00 F 
+ATOM      9  C22 UNL     1      -2.032  35.991  19.604  0.00  0.00      0.00 A 
+ATOM     10  C23 UNL     1      -2.634  36.794  20.560  0.00  0.00      0.00 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  C6  UNL     1      -3.351  39.456  22.895  0.00  0.00      0.00 A1
+ATOM     12  O3  UNL     1      -3.600  39.400  24.148  0.00  0.00      0.00 Oc
+ATOM     13  O4  UNL     1      -3.055  40.722  22.446  0.00  0.00      0.00 Oc
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  C3  UNL     1      -1.019  38.690  21.200  0.00  0.00      0.00 C2
+BRANCH  14  17
+ATOM     15  C2  UNL     1       1.377  38.836  21.962  0.00  0.00      0.00 A1
+ATOM     16  O2  UNL     1       1.593  39.748  21.106  0.00  0.00      0.00 Of
+ATOM     17  N1  UNL     1       0.066  38.292  22.019  0.00  0.00      0.00 Nf
+ATOM     18  H4  UNL     1      -0.058  37.526  22.763  0.00  0.00      0.00 HD
+BRANCH  15  20
+ATOM     19  C1  UNL     1       2.374  38.600  24.195  0.00  0.00      0.00 C3
+ATOM     20  O1  UNL     1       2.400  38.400  22.800  0.00  0.00      0.00 Oo
+ENDBRANCH  15  20
+ENDBRANCH  14  17
+ENDBRANCH   1  14
+BRANCH   3  21
+ATOM     21  C7  UNL     1      -5.698  37.368  22.422  0.00  0.00      0.00 C2
+BRANCH  21  22
+ATOM     22  C8  UNL     1      -6.705  37.667  21.423  0.00  0.00      0.00 A 
+ATOM     23  C9  UNL     1      -7.569  36.681  20.970  0.00  0.00      0.00 A 
+ATOM     24  C10 UNL     1      -8.619  36.893  20.106  0.00  0.00      0.00 A 
+ATOM     25  C11 UNL     1      -8.805  38.188  19.673  0.00  0.00      0.00 A 
+ATOM     26  C12 UNL     1      -7.989  39.195  20.079  0.00  0.00      0.00 A 
+ATOM     27  C13 UNL     1      -8.200  40.446  19.570  0.00  0.00      0.00 A 
+ATOM     28  C14 UNL     1      -7.366  41.505  19.910  0.00  0.00      0.00 A 
+ATOM     29  C15 UNL     1      -6.311  41.252  20.781  0.00  0.00      0.00 A 
+ATOM     30  C16 UNL     1      -6.093  39.993  21.299  0.00  0.00      0.00 A 
+ATOM     31  C17 UNL     1      -6.920  38.950  20.964  0.00  0.00      0.00 A 
+ENDBRANCH  21  22
+ENDBRANCH   3  21
+TORSDOF 6
+ENDMDL
+MODEL        4
+REMARK 921   NORMALIZED FREE ENERGY :  -7.344 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -9.150 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -8.933 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -0.217 KCAL/MOL
+ROOT
+ATOM      1  C4  UNL     1      -2.319  37.964  21.207  0.00  0.00      0.00 A 
+ATOM      2  C5  UNL     1      -3.478  38.378  21.900  0.00  0.00      0.00 A 
+ATOM      3  N2  UNL     1      -4.473  37.535  21.663  0.00  0.00      0.00 Nu
+ATOM      4  C18 UNL     1      -3.999  36.549  20.806  0.00  0.00      0.00 A 
+ATOM      5  C19 UNL     1      -4.702  35.489  20.274  0.00  0.00      0.00 A 
+ATOM      6  C20 UNL     1      -4.017  34.640  19.394  0.00  0.00      0.00 A 
+ATOM      7  C21 UNL     1      -2.698  34.885  19.099  0.00  0.00      0.00 A 
+ATOM      8  F1  UNL     1      -2.009  34.059  18.240  0.00  0.00      0.00 F 
+ATOM      9  C22 UNL     1      -2.033  35.962  19.659  0.00  0.00      0.00 A 
+ATOM     10  C23 UNL     1      -2.675  36.823  20.533  0.00  0.00      0.00 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  C6  UNL     1      -3.466  39.599  22.706  0.00  0.00      0.00 A1
+ATOM     12  O3  UNL     1      -3.607  39.573  23.977  0.00  0.00      0.00 Oc
+ATOM     13  O4  UNL     1      -3.302  40.866  22.195  0.00  0.00      0.00 Oc
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  C3  UNL     1      -1.041  38.681  21.233  0.00  0.00      0.00 C2
+BRANCH  14  17
+ATOM     15  C2  UNL     1       1.332  38.649  22.077  0.00  0.00      0.00 A1
+ATOM     16  O2  UNL     1       1.677  39.429  21.136  0.00  0.00      0.00 Of
+ATOM     17  N1  UNL     1      -0.033  38.262  22.137  0.00  0.00      0.00 Nf
+ATOM     18  H4  UNL     1      -0.266  37.605  22.954  0.00  0.00      0.00 HD
+BRANCH  15  20
+ATOM     19  C1  UNL     1       2.126  38.404  24.389  0.00  0.00      0.00 C3
+ATOM     20  O1  UNL     1       2.272  38.203  23.002  0.00  0.00      0.00 Oo
+ENDBRANCH  15  20
+ENDBRANCH  14  17
+ENDBRANCH   1  14
+BRANCH   3  21
+ATOM     21  C7  UNL     1      -5.851  37.584  22.121  0.00  0.00      0.00 C2
+BRANCH  21  22
+ATOM     22  C8  UNL     1      -6.648  38.489  21.316  0.00  0.00      0.00 A 
+ATOM     23  C9  UNL     1      -6.117  39.688  20.862  0.00  0.00      0.00 A 
+ATOM     24  C10 UNL     1      -6.758  40.558  20.008  0.00  0.00      0.00 A 
+ATOM     25  C11 UNL     1      -8.018  40.188  19.589  0.00  0.00      0.00 A 
+ATOM     26  C12 UNL     1      -8.591  39.028  20.003  0.00  0.00      0.00 A 
+ATOM     27  C13 UNL     1      -9.863  38.750  19.589  0.00  0.00      0.00 A 
+ATOM     28  C14 UNL     1     -10.520  37.603  20.020  0.00  0.00      0.00 A 
+ATOM     29  C15 UNL     1      -9.842  36.750  20.886  0.00  0.00      0.00 A 
+ATOM     30  C16 UNL     1      -8.559  37.024  21.307  0.00  0.00      0.00 A 
+ATOM     31  C17 UNL     1      -7.913  38.156  20.877  0.00  0.00      0.00 A 
+ENDBRANCH  21  22
+ENDBRANCH   3  21
+TORSDOF 6
+ENDMDL
+MODEL        5
+REMARK 921   NORMALIZED FREE ENERGY :  -7.330 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY :  -9.133 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -8.742 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -0.392 KCAL/MOL
+ROOT
+ATOM      1  C4  UNL     1      -4.432  38.167  21.696  0.00  0.00      0.00 A 
+ATOM      2  C5  UNL     1      -3.512  38.771  22.580  0.00  0.00      0.00 A 
+ATOM      3  N2  UNL     1      -2.351  38.133  22.531  0.00  0.00      0.00 Nu
+ATOM      4  C18 UNL     1      -2.478  37.091  21.620  0.00  0.00      0.00 A 
+ATOM      5  C19 UNL     1      -1.528  36.152  21.280  0.00  0.00      0.00 A 
+ATOM      6  C20 UNL     1      -1.901  35.163  20.359  0.00  0.00      0.00 A 
+ATOM      7  C21 UNL     1      -3.171  35.164  19.836  0.00  0.00      0.00 A 
+ATOM      8  F1  UNL     1      -3.554  34.203  18.927  0.00  0.00      0.00 F 
+ATOM      9  C22 UNL     1      -4.092  36.128  20.208  0.00  0.00      0.00 A 
+ATOM     10  C23 UNL     1      -3.761  37.122  21.114  0.00  0.00      0.00 A 
+ENDROOT
+BRANCH   2  11
+ATOM     11  C6  UNL     1      -3.911  39.913  23.403  0.00  0.00      0.00 A1
+ATOM     12  O3  UNL     1      -4.409  39.764  24.573  0.00  0.00      0.00 Oc
+ATOM     13  O4  UNL     1      -3.793  41.228  23.017  0.00  0.00      0.00 Oc
+ENDBRANCH   2  11
+BRANCH   1  14
+ATOM     14  C3  UNL     1      -5.818  38.611  21.516  0.00  0.00      0.00 C2
+BRANCH  14  17
+ATOM     15  C2  UNL     1      -7.270  39.958  19.961  0.00  0.00      0.00 A1
+ATOM     16  O2  UNL     1      -8.167  39.063  20.023  0.00  0.00      0.00 Of
+ATOM     17  N1  UNL     1      -6.080  39.743  20.706  0.00  0.00      0.00 Nf
+ATOM     18  H4  UNL     1      -5.359  40.535  20.618  0.00  0.00      0.00 HD
+BRANCH  15  20
+ATOM     19  C1  UNL     1      -8.701  41.401  18.580  0.00  0.00      0.00 C3
+ATOM     20  O1  UNL     1      -7.465  41.099  19.186  0.00  0.00      0.00 Oo
+ENDBRANCH  15  20
+ENDBRANCH  14  17
+ENDBRANCH   1  14
+BRANCH   3  21
+ATOM     21  C7  UNL     1      -1.137  38.369  23.294  0.00  0.00      0.00 C2
+BRANCH  21  22
+ATOM     22  C8  UNL     1      -0.128  39.035  22.494  0.00  0.00      0.00 A 
+ATOM     23  C9  UNL     1      -0.470  39.683  21.317  0.00  0.00      0.00 A 
+ATOM     24  C10 UNL     1       0.396  40.429  20.550  0.00  0.00      0.00 A 
+ATOM     25  C11 UNL     1       1.694  40.523  21.007  0.00  0.00      0.00 A 
+ATOM     26  C12 UNL     1       2.088  39.907  22.151  0.00  0.00      0.00 A 
+ATOM     27  C13 UNL     1       3.402  40.000  22.518  0.00  0.00      0.00 A 
+ATOM     28  C14 UNL     1       3.875  39.349  23.651  0.00  0.00      0.00 A 
+ATOM     29  C15 UNL     1       2.971  38.600  24.398  0.00  0.00      0.00 A 
+ATOM     30  C16 UNL     1       1.645  38.503  24.035  0.00  0.00      0.00 A 
+ATOM     31  C17 UNL     1       1.181  39.149  22.917  0.00  0.00      0.00 A 
+ENDBRANCH  21  22
+ENDBRANCH   3  21
+TORSDOF 6
+ENDMDL

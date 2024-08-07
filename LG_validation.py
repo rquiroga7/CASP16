@@ -14,9 +14,8 @@ from io import BytesIO
 from rdkit.Chem import rdFMCS
 import sys
 from collections import Counter
-import pandas as pd
 
-LOG_PATH = "/local/Projects/Perl/casp15/src/logs/LigLog/"
+LOG_PATH = "./LOG"
 TARGETS_PATH = "./TARGETS/"
 
 
@@ -132,6 +131,8 @@ class Model:
                     sys.exit()
                 elif line.startswith("REMARK"):
                     pass
+                elif line.startswith("PARENT"):
+                    pass
                 elif line.startswith("POSE"):
                     pose_id = int(line.split(None, 1)[1])
                     if pose_id != 1:
@@ -143,14 +144,11 @@ class Model:
                 elif line.startswith("END"):
                     # assume it's the last - no checks
                     pass
+                elif line.startswith("ATOM") | line.startswith("HETATM") | line.startswith("TER"):
+                    # assume it's correct
+                    pass
                 elif line.startswith("MODEL"):
                     # assume it's the first - no checks
-                    pass
-                elif line.startswith("PARENT"):
-                    # PARENT LINE
-                    pass
-                elif line.startswith("ATOM") | line.startswith("HETATM") | line.startswith("MASTER") | line.startswith("TER"):
-                    # PROTEIN STRUCTURE
                     pass
                 else:
                     print("# ERROR! Unknown record %s !!" % line)
@@ -259,7 +257,6 @@ class Ligand:
 def validate_ligands(LG_obj):
 
     smiles = find_smiles(LG_obj.TARGET)
-
     tasks = set(find_task(LG_obj.TARGET).values())
     
     for mdl in LG_obj.MODELS:
@@ -355,18 +352,15 @@ def compare_atoms(validation_mol, mol, lig_id):
 
 
 def read_smiles(target):
-    smiles_fn = os.path.join(TARGETS_PATH, target + ".smiles.txt")
+    smiles_fn = os.path.join(TARGETS_PATH, target + ".tsv")
     with open(smiles_fn, "r") as f:
         smiles = f.read().splitlines()
     return smiles
 
 
 def find_smiles(target):
-    #Extract the third column to target2 
-    target2= pd.read_csv(f"./L1000_ligands/{target}.tsv", sep='\t', header=0)
-    print("#Target is ",f"{target2}")
     try:
-        smiles_lines = read_smiles(target2)
+        smiles_lines = read_smiles(target)
         smiles = {int(i.split()[0]): i.split()[2] for i in smiles_lines[1:]}
     except Exception as err:
         print("# ERROR! Target data file is invalid (SMILES), get in touch with the Prediction Center !!")
@@ -448,4 +442,3 @@ if __name__ == "__main__":
     except Exception:
         print("# ERROR! The validation script crashed, get in touch with the Prediction Center !!")
         raise
-
