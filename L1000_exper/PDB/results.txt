@@ -1,0 +1,17 @@
+L1001 1 RMSD L1001_ligand.pdb:L1001_ligand_1.pdbt 1.3848
+L1002 1 RMSD L1002_ligand.pdb:L1002_ligand_1.pdbt 1.05708
+L1003 3 RMSD L1003_ligand.pdb:L1003_ligand_3.pdbt 1.38459
+L1004 1 RMSD L1004_ligand.pdb:L1004_ligand_1.pdbt 0.890483
+L1005 1 RMSD L1005_ligand.pdb:L1005_ligand_1.pdbt 0.931728
+L1006 5 RMSD L1006_ligand.pdb:L1006_ligand_5.pdbt 1.0334
+L1008 2 RMSD L1008_ligand.pdb:L1008_ligand_2.pdbt 0.956206
+L1010 1 RMSD L1010_ligand.pdb:L1010_ligand_1.pdbt 0.735428
+L1011 1 RMSD L1011_ligand.pdb:L1011_ligand_1.pdbt 0.57757
+L1013 1 RMSD L1013_ligand.pdb:L1013_ligand_1.pdbt 1.20751
+L1014 1 RMSD L1014_ligand.pdb:L1014_ligand_1.pdbt 1.20107
+L1015 2 RMSD L1015_ligand.pdb:L1015_ligand_2.pdbt 1.97753
+L1016 1 RMSD L1016_ligand.pdb:L1016_ligand_1.pdbt 1.18578
+L1017 1 RMSD L1017_ligand.pdb:L1017_ligand_1.pdbt 0.657793
+L1009 4 RMSD L1009_ligand.pdb:L1009_ligand_4.pdbt 2.65997
+L1007 2 RMSD L1007_ligand.pdb:L1007_ligand_2.pdbt 2.44229
+L1012 5 RMSD L1012_ligand.pdb:L1012_ligand_5.pdbt 2.1767
