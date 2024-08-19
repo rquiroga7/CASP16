@@ -1,0 +1,12 @@
+2024-08-16 15:45:46,883 - pocketoptimizer.ui - INFO - Logging to: /home/rquiroga/github/CASP16/L1000_exper/PDB/pocketoptimizer.log
+2024-08-16 15:45:46,884 - pocketoptimizer.ui - INFO - Start Protein Preparation.
+2024-08-16 15:45:46,946 - pocketoptimizer.preparation.structure_building - INFO - Protonate protein according to pH: 7.
+2024-08-16 15:45:48,291 - pocketoptimizer.preparation.structure_building - INFO - Successfully prepared protein structure.
+2024-08-16 15:45:48,292 - pocketoptimizer.ui - INFO - Building complex.
+2024-08-16 16:03:07,359 - pocketoptimizer.preparation.structure_building - INFO - Adding hydrogen atoms to the ligand according to pH: 7.
+2024-08-16 16:03:07,416 - pocketoptimizer.preparation.structure_building - INFO - Parameterize ligand for GAFF2.
+2024-08-16 16:03:07,484 - pocketoptimizer.preparation.structure_building - INFO - Ligand parametrization was successful.
+2024-08-16 16:03:14,075 - pocketoptimizer.ui - INFO - Start Protein Preparation.
+2024-08-16 16:03:14,076 - pocketoptimizer.preparation.structure_building - INFO - Protein is already prepared.
+2024-08-16 16:03:14,077 - pocketoptimizer.ui - INFO - Building complex.
+2024-08-16 16:03:14,134 - pocketoptimizer.preparation.structure_building - INFO - Build native complex.
