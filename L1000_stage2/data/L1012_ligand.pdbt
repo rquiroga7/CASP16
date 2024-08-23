@@ -1,0 +1,59 @@
+REMARK  Name = l12.pdb
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_1  and  C2_2
+REMARK    2  A    between atoms: S1_1  and  N7_7
+REMARK    3  A    between atoms: C4_4  and  S6_6
+REMARK    4  A    between atoms: C5_5  and  C25_25
+REMARK    5  A    between atoms: S6_6  and  C24_24
+REMARK    6  A    between atoms: N7_7  and  C9_9
+REMARK    7  A    between atoms: C12_12  and  C13_13
+REMARK    8  A    between atoms: C13_13  and  O26_26
+REMARK    9  A    between atoms: O26_26  and  C29_29
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N7  LIG A 301     -26.241  23.109   7.776  0.00  0.00    +0.000 Nc
+ATOM      2  H7  LIG A 301     -26.637  22.281   8.196  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1   4
+ATOM      3  C4  LIG A 301     -24.250  22.609   9.095  0.00  0.00    +0.000 A 
+ATOM      4  C9  LIG A 301     -24.932  23.451   8.211  0.00  0.00    +0.000 A 
+ATOM      5  C11 LIG A 301     -22.970  22.904   9.527  0.00  0.00    +0.000 A 
+ATOM      6  C12 LIG A 301     -22.352  24.075   9.122  0.00  0.00    +0.000 A 
+ATOM      7  C19 LIG A 301     -24.292  24.616   7.791  0.00  0.00    +0.000 A 
+ATOM      8  C22 LIG A 301     -23.019  24.923   8.245  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  S6  LIG A 301     -24.989  21.104   9.659  0.00  0.00    +0.000 S3
+ATOM     10  O16 LIG A 301     -24.075  20.452  10.553  0.00  0.00    +0.000 Oi
+ATOM     11  O17 LIG A 301     -26.304  21.416  10.148  0.00  0.00    +0.000 Oi
+ATOM     12  C24 LIG A 301     -25.146  20.122   8.222  0.00  0.00    +0.000 C3
+ENDBRANCH   3   9
+BRANCH   6  13
+ATOM     13  C13 LIG A 301     -20.964  24.369   9.576  0.00  0.00    +0.000 A1
+ATOM     14  O20 LIG A 301     -20.435  25.446   9.478  0.00  0.00    +0.000 Og
+BRANCH  13  15
+ATOM     15  O26 LIG A 301     -20.338  23.279  10.045  0.00  0.00    +0.000 Oo
+ATOM     16  C29 LIG A 301     -18.943  23.450  10.389  0.00  0.00    +0.000 C3
+ENDBRANCH  13  15
+ENDBRANCH   6  13
+ENDBRANCH   1   4
+BRANCH   1  17
+ATOM     17  S1  LIG A 301     -27.180  23.861   6.705  0.00  0.00    +0.000 S3
+ATOM     18  O14 LIG A 301     -27.256  25.243   7.055  0.00  0.00    +0.000 Ol
+ATOM     19  O15 LIG A 301     -28.365  23.070   6.612  0.00  0.00    +0.000 Ol
+BRANCH  17  20
+ATOM     20  C2  LIG A 301     -26.398  23.777   5.147  0.00  0.00    +0.000 A 
+ATOM     21  S3  LIG A 301     -26.002  25.241   4.319  0.00  0.00    +0.000 S2
+ATOM     22  C5  LIG A 301     -25.985  22.696   4.414  0.00  0.00    +0.000 A 
+ATOM     23  C8  LIG A 301     -25.354  22.990   3.168  0.00  0.00    +0.000 A 
+ATOM     24  C10 LIG A 301     -25.296  24.384   2.977  0.00  0.00    +0.000 A 
+ATOM     25  C18 LIG A 301     -24.867  22.143   2.183  0.00  0.00    +0.000 A 
+ATOM     26  C21 LIG A 301     -24.736  24.929   1.829  0.00  0.00    +0.000 A 
+ATOM     27  C23 LIG A 301     -24.303  22.713   1.073  0.00  0.00    +0.000 A 
+ATOM     28  C25 LIG A 301     -26.208  21.286   4.886  0.00  0.00    +0.000 C3
+ATOM     29  C27 LIG A 301     -24.204  24.078   0.873  0.00  0.00    +0.000 A 
+ATOM     30  F28 LIG A 301     -23.784  21.883   0.139  0.00  0.00    +0.000 F 
+ENDBRANCH  17  20
+ENDBRANCH   1  17
+TORSDOF 6

@@ -1,0 +1,265 @@
+MODEL        1
+REMARK 921   NORMALIZED FREE ENERGY : -10.504 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY : -13.288 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY : -11.109 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -2.179 KCAL/MOL
+ROOT
+ATOM      1  C4  LIG L   1     -27.471  21.923   6.859  0.00  0.00      0.00 C1
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  LIG L   1     -26.785  22.231   5.543  0.00  0.00      0.00 A 
+ATOM      3  N5  LIG L   1     -26.461  21.266   4.619  0.00  0.00      0.00 Nb
+ATOM      4  C6  LIG L   1     -26.375  23.440   5.078  0.00  0.00      0.00 A 
+ATOM      5  C9  LIG L   1     -25.740  23.203   3.782  0.00  0.00      0.00 A 
+ATOM      6  C11 LIG L   1     -25.828  21.827   3.518  0.00  0.00      0.00 A 
+ATOM      7  C13 LIG L   1     -25.152  24.037   2.840  0.00  0.00      0.00 A 
+ATOM      8  C16 LIG L   1     -25.307  21.268   2.362  0.00  0.00      0.00 A 
+ATOM      9  C18 LIG L   1     -24.626  23.472   1.700  0.00  0.00      0.00 A 
+ATOM     10  C19 LIG L   1     -26.505  24.804   5.743  0.00  0.00      0.00 C3
+ATOM     11  C20 LIG L   1     -24.700  22.100   1.437  0.00  0.00      0.00 A 
+ATOM     12  F22 LIG L   1     -24.025  24.282   0.806  0.00  0.00      0.00 F 
+ATOM     13  H5  LIG L   1     -26.656  20.281   4.726  0.00  0.00      0.00 HD
+ENDBRANCH   1   2
+BRANCH   1  14
+ATOM     14  C1  LIG L   1     -28.724  21.092   6.649  0.00  0.00      0.00 A 
+ATOM     15  C3  LIG L   1     -30.040  21.631   6.817  0.00  0.00      0.00 A 
+ATOM     16  C7  LIG L   1     -28.857  19.799   6.254  0.00  0.00      0.00 A 
+ATOM     17  O8  LIG L   1     -30.976  20.703   6.544  0.00  0.00      0.00 Oo
+ATOM     18  C10 LIG L   1     -30.322  19.476   6.171  0.00  0.00      0.00 C1
+ATOM     19  O12 LIG L   1     -30.340  22.710   7.300  0.00  0.00      0.00 Og
+ATOM     20  O17 LIG L   1     -27.900  18.926   5.975  0.00  0.00      0.00 Ob
+ATOM     21  H17 LIG L   1     -27.833  18.819   5.023  0.00  0.00      0.00 HD
+BRANCH  18  22
+ATOM     22  C14 LIG L   1     -30.750  18.301   7.075  0.00  0.00      0.00 C2
+BRANCH  22  23
+ATOM     23  C21 LIG L   1     -30.236  18.469   8.494  0.00  0.00      0.00 A 
+ATOM     24  C25 LIG L   1     -30.672  19.538   9.282  0.00  0.00      0.00 A 
+ATOM     25  C26 LIG L   1     -29.340  17.559   9.033  0.00  0.00      0.00 A 
+ATOM     26  C29 LIG L   1     -28.886  17.704  10.338  0.00  0.00      0.00 A 
+ATOM     27  C30 LIG L   1     -30.204  19.695  10.578  0.00  0.00      0.00 A 
+ATOM     28  C31 LIG L   1     -29.315  18.772  11.102  0.00  0.00      0.00 A 
+ENDBRANCH  22  23
+ENDBRANCH  18  22
+ENDBRANCH   1  14
+BRANCH   1  29
+ATOM     29  C15 LIG L   1     -26.503  21.323   7.876  0.00  0.00      0.00 A 
+ATOM     30  C23 LIG L   1     -27.018  20.889   9.094  0.00  0.00      0.00 A 
+ATOM     31  C24 LIG L   1     -25.128  21.225   7.650  0.00  0.00      0.00 A 
+ATOM     32  C27 LIG L   1     -24.285  20.701   8.629  0.00  0.00      0.00 A 
+ATOM     33  C28 LIG L   1     -26.171  20.404  10.075  0.00  0.00      0.00 A 
+ATOM     34  C32 LIG L   1     -24.811  20.300   9.844  0.00  0.00      0.00 A 
+ENDBRANCH   1  29
+TORSDOF 5
+ENDMDL
+MODEL        2
+REMARK 921   NORMALIZED FREE ENERGY :  -8.407 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY : -10.635 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -9.415 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -1.221 KCAL/MOL
+ROOT
+ATOM      1  C4  LIG L   1     -27.121  21.505   8.999  0.00  0.00      0.00 C1
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  LIG L   1     -27.904  20.210   8.906  0.00  0.00      0.00 A 
+ATOM      3  N5  LIG L   1     -28.669  19.869   7.816  0.00  0.00      0.00 Nb
+ATOM      4  C6  LIG L   1     -27.998  19.222   9.835  0.00  0.00      0.00 A 
+ATOM      5  C9  LIG L   1     -28.897  18.208   9.285  0.00  0.00      0.00 A 
+ATOM      6  C11 LIG L   1     -29.286  18.641   8.008  0.00  0.00      0.00 A 
+ATOM      7  C13 LIG L   1     -29.359  16.986   9.756  0.00  0.00      0.00 A 
+ATOM      8  C16 LIG L   1     -30.153  17.903   7.216  0.00  0.00      0.00 A 
+ATOM      9  C18 LIG L   1     -30.229  16.265   8.969  0.00  0.00      0.00 A 
+ATOM     10  C19 LIG L   1     -27.337  19.144  11.204  0.00  0.00      0.00 C3
+ATOM     11  C20 LIG L   1     -30.630  16.697   7.700  0.00  0.00      0.00 A 
+ATOM     12  F22 LIG L   1     -30.701  15.097   9.446  0.00  0.00      0.00 F 
+ATOM     13  H5  LIG L   1     -28.771  20.438   6.988  0.00  0.00      0.00 HD
+ENDBRANCH   1   2
+BRANCH   1  14
+ATOM     14  C1  LIG L   1     -26.773  22.041   7.623  0.00  0.00      0.00 A 
+ATOM     15  C3  LIG L   1     -27.564  23.035   6.963  0.00  0.00      0.00 A 
+ATOM     16  C7  LIG L   1     -25.718  21.755   6.817  0.00  0.00      0.00 A 
+ATOM     17  O8  LIG L   1     -27.029  23.361   5.772  0.00  0.00      0.00 Oo
+ATOM     18  C10 LIG L   1     -25.830  22.589   5.572  0.00  0.00      0.00 C1
+ATOM     19  O12 LIG L   1     -28.665  23.444   7.295  0.00  0.00      0.00 Og
+ATOM     20  O17 LIG L   1     -24.730  20.899   7.035  0.00  0.00      0.00 Ob
+ATOM     21  H17 LIG L   1     -23.936  21.383   7.276  0.00  0.00      0.00 HD
+BRANCH  18  22
+ATOM     22  C14 LIG L   1     -25.893  21.759   4.273  0.00  0.00      0.00 C2
+BRANCH  22  23
+ATOM     23  C21 LIG L   1     -25.272  22.502   3.103  0.00  0.00      0.00 A 
+ATOM     24  C25 LIG L   1     -25.456  23.880   2.963  0.00  0.00      0.00 A 
+ATOM     25  C26 LIG L   1     -24.504  21.828   2.167  0.00  0.00      0.00 A 
+ATOM     26  C29 LIG L   1     -23.921  22.513   1.107  0.00  0.00      0.00 A 
+ATOM     27  C30 LIG L   1     -24.892  24.561   1.895  0.00  0.00      0.00 A 
+ATOM     28  C31 LIG L   1     -24.122  23.873   0.973  0.00  0.00      0.00 A 
+ENDBRANCH  22  23
+ENDBRANCH  18  22
+ENDBRANCH   1  14
+BRANCH   1  29
+ATOM     29  C15 LIG L   1     -27.820  22.525   9.895  0.00  0.00      0.00 A 
+ATOM     30  C23 LIG L   1     -27.071  23.597  10.374  0.00  0.00      0.00 A 
+ATOM     31  C24 LIG L   1     -29.158  22.411  10.277  0.00  0.00      0.00 A 
+ATOM     32  C27 LIG L   1     -29.735  23.355  11.126  0.00  0.00      0.00 A 
+ATOM     33  C28 LIG L   1     -27.640  24.508  11.246  0.00  0.00      0.00 A 
+ATOM     34  C32 LIG L   1     -28.968  24.397  11.615  0.00  0.00      0.00 A 
+ENDBRANCH   1  29
+TORSDOF 5
+ENDMDL
+MODEL        3
+REMARK 921   NORMALIZED FREE ENERGY :  -8.265 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY : -10.456 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -9.474 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -0.981 KCAL/MOL
+ROOT
+ATOM      1  C4  LIG L   1     -25.868  22.017   6.238  0.00  0.00      0.00 C1
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  LIG L   1     -25.056  22.789   7.259  0.00  0.00      0.00 A 
+ATOM      3  N5  LIG L   1     -24.776  24.130   7.141  0.00  0.00      0.00 Nb
+ATOM      4  C6  LIG L   1     -24.478  22.318   8.395  0.00  0.00      0.00 A 
+ATOM      5  C9  LIG L   1     -23.779  23.445   9.014  0.00  0.00      0.00 A 
+ATOM      6  C11 LIG L   1     -24.004  24.570   8.206  0.00  0.00      0.00 A 
+ATOM      7  C13 LIG L   1     -23.032  23.582  10.176  0.00  0.00      0.00 A 
+ATOM      8  C16 LIG L   1     -23.465  25.811   8.512  0.00  0.00      0.00 A 
+ATOM      9  C18 LIG L   1     -22.491  24.815  10.466  0.00  0.00      0.00 A 
+ATOM     10  C19 LIG L   1     -24.500  20.901   8.952  0.00  0.00      0.00 C3
+ATOM     11  C20 LIG L   1     -22.700  25.938   9.660  0.00  0.00      0.00 A 
+ATOM     12  F22 LIG L   1     -21.737  24.934  11.577  0.00  0.00      0.00 F 
+ATOM     13  H5  LIG L   1     -25.090  24.715   6.380  0.00  0.00      0.00 HD
+ENDBRANCH   1   2
+BRANCH   1  14
+ATOM     14  C1  LIG L   1     -27.315  21.878   6.674  0.00  0.00      0.00 A 
+ATOM     15  C3  LIG L   1     -28.142  23.010   6.967  0.00  0.00      0.00 A 
+ATOM     16  C7  LIG L   1     -28.078  20.764   6.823  0.00  0.00      0.00 A 
+ATOM     17  O8  LIG L   1     -29.387  22.622   7.300  0.00  0.00      0.00 Oo
+ATOM     18  C10 LIG L   1     -29.457  21.184   7.243  0.00  0.00      0.00 C1
+ATOM     19  O12 LIG L   1     -27.788  24.172   7.086  0.00  0.00      0.00 Og
+ATOM     20  O17 LIG L   1     -27.723  19.500   6.644  0.00  0.00      0.00 Ob
+ATOM     21  H17 LIG L   1     -28.084  19.181   5.813  0.00  0.00      0.00 HD
+BRANCH  18  22
+ATOM     22  C14 LIG L   1     -29.908  20.580   8.589  0.00  0.00      0.00 C2
+BRANCH  22  23
+ATOM     23  C21 LIG L   1     -30.042  19.069   8.509  0.00  0.00      0.00 A 
+ATOM     24  C25 LIG L   1     -29.364  18.249   9.415  0.00  0.00      0.00 A 
+ATOM     25  C26 LIG L   1     -30.850  18.483   7.547  0.00  0.00      0.00 A 
+ATOM     26  C29 LIG L   1     -30.988  17.102   7.487  0.00  0.00      0.00 A 
+ATOM     27  C30 LIG L   1     -29.484  16.870   9.343  0.00  0.00      0.00 A 
+ATOM     28  C31 LIG L   1     -30.301  16.302   8.380  0.00  0.00      0.00 A 
+ENDBRANCH  22  23
+ENDBRANCH  18  22
+ENDBRANCH   1  14
+BRANCH   1  29
+ATOM     29  C15 LIG L   1     -25.704  22.591   4.833  0.00  0.00      0.00 A 
+ATOM     30  C23 LIG L   1     -25.517  21.701   3.779  0.00  0.00      0.00 A 
+ATOM     31  C24 LIG L   1     -25.701  23.962   4.567  0.00  0.00      0.00 A 
+ATOM     32  C27 LIG L   1     -25.512  24.432   3.268  0.00  0.00      0.00 A 
+ATOM     33  C28 LIG L   1     -25.292  22.175   2.499  0.00  0.00      0.00 A 
+ATOM     34  C32 LIG L   1     -25.299  23.533   2.238  0.00  0.00      0.00 A 
+ENDBRANCH   1  29
+TORSDOF 5
+ENDMDL
+MODEL        4
+REMARK 921   NORMALIZED FREE ENERGY :  -8.160 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY : -10.323 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -9.004 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -1.319 KCAL/MOL
+ROOT
+ATOM      1  C4  LIG L   1     -27.295  20.950   6.154  0.00  0.00      0.00 C1
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  LIG L   1     -26.677  20.895   7.536  0.00  0.00      0.00 A 
+ATOM      3  N5  LIG L   1     -27.379  20.532   8.661  0.00  0.00      0.00 Nb
+ATOM      4  C6  LIG L   1     -25.400  21.194   7.893  0.00  0.00      0.00 A 
+ATOM      5  C9  LIG L   1     -25.313  21.018   9.342  0.00  0.00      0.00 A 
+ATOM      6  C11 LIG L   1     -26.571  20.585   9.788  0.00  0.00      0.00 A 
+ATOM      7  C13 LIG L   1     -24.280  21.159  10.260  0.00  0.00      0.00 A 
+ATOM      8  C16 LIG L   1     -26.828  20.333  11.127  0.00  0.00      0.00 A 
+ATOM      9  C18 LIG L   1     -24.547  20.919  11.590  0.00  0.00      0.00 A 
+ATOM     10  C19 LIG L   1     -24.251  21.650   7.005  0.00  0.00      0.00 C3
+ATOM     11  C20 LIG L   1     -25.802  20.498  12.042  0.00  0.00      0.00 A 
+ATOM     12  F22 LIG L   1     -23.550  21.092  12.480  0.00  0.00      0.00 F 
+ATOM     13  H5  LIG L   1     -28.353  20.265   8.667  0.00  0.00      0.00 HD
+ENDBRANCH   1   2
+BRANCH   1  14
+ATOM     14  C1  LIG L   1     -28.771  20.599   6.193  0.00  0.00      0.00 A 
+ATOM     15  C3  LIG L   1     -29.760  21.496   6.711  0.00  0.00      0.00 A 
+ATOM     16  C7  LIG L   1     -29.416  19.489   5.751  0.00  0.00      0.00 A 
+ATOM     17  O8  LIG L   1     -30.992  20.964   6.607  0.00  0.00      0.00 Oo
+ATOM     18  C10 LIG L   1     -30.887  19.661   6.001  0.00  0.00      0.00 C1
+ATOM     19  O12 LIG L   1     -29.568  22.531   7.329  0.00  0.00      0.00 Og
+ATOM     20  O17 LIG L   1     -28.893  18.409   5.188  0.00  0.00      0.00 Ob
+ATOM     21  H17 LIG L   1     -29.062  18.428   4.243  0.00  0.00      0.00 HD
+BRANCH  18  22
+ATOM     22  C14 LIG L   1     -31.497  18.562   6.895  0.00  0.00      0.00 C2
+BRANCH  22  23
+ATOM     23  C21 LIG L   1     -30.691  18.361   8.166  0.00  0.00      0.00 A 
+ATOM     24  C25 LIG L   1     -30.026  17.154   8.398  0.00  0.00      0.00 A 
+ATOM     25  C26 LIG L   1     -30.591  19.376   9.106  0.00  0.00      0.00 A 
+ATOM     26  C29 LIG L   1     -29.836  19.196  10.259  0.00  0.00      0.00 A 
+ATOM     27  C30 LIG L   1     -29.289  16.967   9.557  0.00  0.00      0.00 A 
+ATOM     28  C31 LIG L   1     -29.194  17.993  10.482  0.00  0.00      0.00 A 
+ENDBRANCH  22  23
+ENDBRANCH  18  22
+ENDBRANCH   1  14
+BRANCH   1  29
+ATOM     29  C15 LIG L   1     -26.999  22.274   5.454  0.00  0.00      0.00 A 
+ATOM     30  C23 LIG L   1     -26.667  22.241   4.102  0.00  0.00      0.00 A 
+ATOM     31  C24 LIG L   1     -27.015  23.504   6.115  0.00  0.00      0.00 A 
+ATOM     32  C27 LIG L   1     -26.702  24.680   5.433  0.00  0.00      0.00 A 
+ATOM     33  C28 LIG L   1     -26.321  23.407   3.441  0.00  0.00      0.00 A 
+ATOM     34  C32 LIG L   1     -26.347  24.624   4.097  0.00  0.00      0.00 A 
+ENDBRANCH   1  29
+TORSDOF 5
+ENDMDL
+MODEL        5
+REMARK 921   NORMALIZED FREE ENERGY :  -8.022 KCAL/MOL
+REMARK 922        TOTAL FREE ENERGY : -10.148 KCAL/MOL
+REMARK 923 INTER-LIGAND FREE ENERGY :  -8.549 KCAL/MOL
+REMARK 924 INTRA-LIGAND FREE ENERGY :  -1.599 KCAL/MOL
+ROOT
+ATOM      1  C4  LIG L   1     -25.872  21.993   5.879  0.00  0.00      0.00 C1
+ENDROOT
+BRANCH   1   2
+ATOM      2  C2  LIG L   1     -25.226  22.800   6.988  0.00  0.00      0.00 A 
+ATOM      3  N5  LIG L   1     -25.128  24.171   6.962  0.00  0.00      0.00 Nb
+ATOM      4  C6  LIG L   1     -24.647  22.339   8.128  0.00  0.00      0.00 A 
+ATOM      5  C9  LIG L   1     -24.143  23.508   8.849  0.00  0.00      0.00 A 
+ATOM      6  C11 LIG L   1     -24.479  24.643   8.094  0.00  0.00      0.00 A 
+ATOM      7  C13 LIG L   1     -23.481  23.670  10.059  0.00  0.00      0.00 A 
+ATOM      8  C16 LIG L   1     -24.132  25.922   8.500  0.00  0.00      0.00 A 
+ATOM      9  C18 LIG L   1     -23.130  24.944  10.449  0.00  0.00      0.00 A 
+ATOM     10  C19 LIG L   1     -24.502  20.900   8.602  0.00  0.00      0.00 C3
+ATOM     11  C20 LIG L   1     -23.452  26.078   9.696  0.00  0.00      0.00 A 
+ATOM     12  F22 LIG L   1     -22.457  25.092  11.607  0.00  0.00      0.00 F 
+ATOM     13  H5  LIG L   1     -25.481  24.756   6.218  0.00  0.00      0.00 HD
+ENDBRANCH   1   2
+BRANCH   1  14
+ATOM     14  C1  LIG L   1     -27.330  21.701   6.184  0.00  0.00      0.00 A 
+ATOM     15  C3  LIG L   1     -28.182  22.647   6.839  0.00  0.00      0.00 A 
+ATOM     16  C7  LIG L   1     -28.080  20.606   5.894  0.00  0.00      0.00 A 
+ATOM     17  O8  LIG L   1     -29.430  22.161   6.965  0.00  0.00      0.00 Oo
+ATOM     18  C10 LIG L   1     -29.478  20.842   6.389  0.00  0.00      0.00 C1
+ATOM     19  O12 LIG L   1     -27.850  23.688   7.382  0.00  0.00      0.00 Og
+ATOM     20  O17 LIG L   1     -27.700  19.494   5.281  0.00  0.00      0.00 Ob
+ATOM     21  H17 LIG L   1     -28.030  19.497   4.380  0.00  0.00      0.00 HD
+BRANCH  18  22
+ATOM     22  C14 LIG L   1     -29.961  19.789   7.409  0.00  0.00      0.00 C2
+BRANCH  22  23
+ATOM     23  C21 LIG L   1     -29.486  20.111   8.815  0.00  0.00      0.00 A 
+ATOM     24  C25 LIG L   1     -30.379  20.615   9.764  0.00  0.00      0.00 A 
+ATOM     25  C26 LIG L   1     -28.166  19.896   9.181  0.00  0.00      0.00 A 
+ATOM     26  C29 LIG L   1     -27.739  20.172  10.474  0.00  0.00      0.00 A 
+ATOM     27  C30 LIG L   1     -29.949  20.910  11.049  0.00  0.00      0.00 A 
+ATOM     28  C31 LIG L   1     -28.629  20.683  11.399  0.00  0.00      0.00 A 
+ENDBRANCH  22  23
+ENDBRANCH  18  22
+ENDBRANCH   1  14
+BRANCH   1  29
+ATOM     29  C15 LIG L   1     -25.648  22.630   4.510  0.00  0.00      0.00 A 
+ATOM     30  C23 LIG L   1     -25.296  21.800   3.450  0.00  0.00      0.00 A 
+ATOM     31  C24 LIG L   1     -25.749  24.005   4.287  0.00  0.00      0.00 A 
+ATOM     32  C27 LIG L   1     -25.500  24.537   3.022  0.00  0.00      0.00 A 
+ATOM     33  C28 LIG L   1     -25.013  22.339   2.207  0.00  0.00      0.00 A 
+ATOM     34  C32 LIG L   1     -25.124  23.700   1.987  0.00  0.00      0.00 A 
+ENDBRANCH   1  29
+TORSDOF 5
+ENDMDL
